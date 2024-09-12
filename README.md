@@ -1,6 +1,3 @@
-Here's a basic `README.md` file for your project. You can customize it further based on your specific needs and project details.
-
-
 # YellowSense Job Application
 
 ## Overview
